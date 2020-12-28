@@ -25,8 +25,8 @@
 	         <p>Я могу создавать вот такие замечательные формы:</p>
 	     <section  >
 		      <input type="text" name="name" placeholder="имя" required>
-		      <input type="text"name="emil" placeholder="E-mil" required>
-		      <input  type="text"name="phone" placeholder="телефон" required>
+		      <input type="text "name="emil" placeholder="E-mil" required>
+		      <input  type="text "name="phone" placeholder="телефон" required>
 		      <button type="submit">отправыть форму</button>
 		 </section>
 		<div>
