@@ -2,9 +2,7 @@
 <html lang="ru">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">	
 </head>
 <body> 
 	<header>
@@ -19,7 +17,6 @@
 	<a href="https://google.com.ua" target="_blank" title="заголовочка">прочитать больше в Google</a>
 	</header>
 	</section>
-	
 	<section>
 		<h2 class="wrapper">Что я буду уметь?H2</h2>
 	         <p>Я могу создавать вот такие замечательные формы:</p>
