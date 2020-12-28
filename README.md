@@ -1,15 +1,16 @@
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
 	<link rel="stylesheet" href="main.css">
 </head>
 <body> 
 	<header>
 		<img src="https://wayup.in/courses/course10/lesson2/logo.jpg" alt="">
 	<h1 >вступление H1</h1>
-			<p id="block">Это текст моего первого домашнеего задания. </p>
 	<p id="block">Это текст моего первого домашнеего задания. </p>	
      <p class="new"> Не верится,но мне уже удается писать свой <span>первый код на HTML.</span> </p>
 	</header>
@@ -44,4 +45,3 @@
 
 </body>
 </html>
-
