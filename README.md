@@ -9,6 +9,7 @@
 	<header>
 		<img src="https://wayup.in/courses/course10/lesson2/logo.jpg" alt="">
 	<h1 >вступление H1</h1>
+			<p id="block">Это текст моего первого домашнеего задания. </p>
 	<p id="block">Это текст моего первого домашнеего задания. </p>	
      <p class="new"> Не верится,но мне уже удается писать свой <span>первый код на HTML.</span> </p>
 	</header>
